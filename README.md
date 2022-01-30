@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vulkan**
 
-- 💬 Ask me about **c++, CUDA, C# .NET**
+- 💬 Ask me about **C++, CUDA, C# .NET**
 
 
 <h3 align="left">Languages and Tools:</h3>
