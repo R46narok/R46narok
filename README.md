@@ -4,6 +4,7 @@
 
 - <b>Microservices and Cloud(.NET Core, Azure, Kubernetes)</b>
   - [Authme](https://github.com/r46narok/AuthMe) - Solution for digital identity on the Internet
+  - [Friday](https://github.com/r46narok/Friday) - Digital assistant
   - [Tagesdosis](https://github.com/batmitio/tagesdosis) - Online blog
 - <b>Machine learning</b>
   - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
