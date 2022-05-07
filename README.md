@@ -15,7 +15,7 @@
   - [Vortex](https://github.com/r46narok/vortex) - Game engine using *OpenGL*
   - [PocketSniffer](https://github.com/r46narok/pocketsniffer) - Portable *ESP8266* packet sniffer
   - [DeltaFrost](https://github.com/r46narok/deltafrost) - Network security analysis
-- <b>Desktop applications</b>
+- <b>Desktop applications(C++, .NET Core)</b>
   - [BetterDnD](https://github.com/r46narok/better-dnd) - Tools for the game *Dungeons and Dragons*, game orchestrator using a custom graphics engine(*SDL2*)
 
 <h2> 🤳 Connect with me:</h2>
