@@ -7,7 +7,6 @@
   - [Friday](https://github.com/r46narok/Friday) - Digital assistant
   - [Rift](https://github.com/r46narok/Rift) - Library for building microservices
   - [Tagesdosis](https://github.com/batmitio/tagesdosis) - Online blog
-  - [Apollo](https://github.com/r46narok/apollo) - Zero-day exploit and malware protection with AI
 - <b>Machine learning</b>
   - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
 - <b>Mobile (Xamarin and native Java code)</b>
