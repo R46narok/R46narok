@@ -24,7 +24,7 @@
 
 - <b>TryHackMe</b>
   - [Daily Bugle](https://tryhackme.com/room/dailybugle) - Compromising a Joomla CMS account via SQLi
-  - [Attraktive Directory](https://tryhackme.com/room/attacktivedirectory) - Exploiting a vulnerable Domain Controller
+  - [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory) - Exploiting a vulnerable Domain Controller
 - <b>HackTheBox</b>
   - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
   
