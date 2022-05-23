@@ -30,7 +30,7 @@
   - [BrainStorm](https://tryhackme.com/room/brainstorm) - Reverse engineering a chat program and exploiting a Windows machine
   - [Relevant](https://tryhackme.com/room/relevant) - Black box penetration test
 - <b>HackTheBox</b>
-  - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
+  - Soon
   
 <h2> 🤳 Connect with me:</h2>
 
