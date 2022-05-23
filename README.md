@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stanimir! <br/><a href="https://github.com/r46narok">Software developer</a>, <a href="https://www.linkedin.com/in/stanimir-kolev-60984a227/">Cyber security Enthusiast</a>
+<h1>Hi, I'm Stanimir! <br/><a href="https://github.com/r46narok">Software developer</a>, <a href="https://www.linkedin.com/in/stanimir-kolev-60984a227/">Cybersecurity enthusiast</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
