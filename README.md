@@ -19,14 +19,16 @@
   - [DeltaFrost](https://github.com/r46narok/deltafrost) - Network security analysis
 - <b>Desktop applications(C++, .NET Core)</b>
   - [BetterDnD](https://github.com/r46narok/better-dnd) - Tools for the game *Dungeons and Dragons*, game orchestrator using a custom graphics engine(*SDL2*)
+
 <h2>🐱‍💻Completed CTFs :</h2>
+
 - <b>TryHackMe</b>
   - [Daily Bugle](https://tryhackme.com/room/dailybugle) - Compromising a Joomla CMS account via SQLi
-  - [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory) - Exploiting a vulnerable Domain Controller
+  - [Attraktive Directory](https://tryhackme.com/room/attacktivedirectory) - Exploiting a vulnerable Domain Controller
 - <b>HackTheBox</b>
-  - [Daily Bugle](https://tryhackme.com/room/dailybugle) - Compromising a Joomla CMS account via SQLi
-
-<h2>🤳 Connect with me:</h2>
+  - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
+  
+<h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="Stanimir Kolev| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
