@@ -25,6 +25,10 @@
 - <b>TryHackMe</b>
   - [Daily Bugle](https://tryhackme.com/room/dailybugle) - Compromising a Joomla CMS account via SQLi
   - [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory) - Exploiting a vulnerable Domain Controller
+  - [Mr Robot CTF](https://tryhackme.com/room/mrrobot) - Exploiting Apache
+  - [HackPark](https://tryhackme.com/room/hackpark) - Hydra bruteforcing, public exploits
+  - [BrainStorm](https://tryhackme.com/room/brainstorm) - Reverse engineering a chat program and exploiting a Windows machine
+  - [Relevant](https://tryhackme.com/room/relevant) - Black box penetration test
 - <b>HackTheBox</b>
   - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
   
