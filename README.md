@@ -19,7 +19,6 @@
   - [DeltaFrost](https://github.com/r46narok/deltafrost) - Network security analysis
 - <b>Desktop applications(C++, .NET Core)</b>
   - [BetterDnD](https://github.com/r46narok/better-dnd) - Tools for the game *Dungeons and Dragons*, game orchestrator using a custom graphics engine(*SDL2*)
-
 <h2>🐱‍💻Completed CTFs :</h2>
 - <b>TryHackMe</b>
   - [Daily Bugle](https://tryhackme.com/room/dailybugle) - Compromising a Joomla CMS account via SQLi
