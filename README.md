@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stanimir! <br/><a href="https://github.com/r46narok">Software developer</a>, <a href="https://www.linkedin.com/in/stanimir-kolev-60984a227/">Cybersecurity enthusiast</a>
+<h1>Hi, I'm Stanimir! <br/><a href="https://github.com/r46narok">Software developer</a>, <a href="https://www.linkedin.com/in/stanimir-kolev-60984a227/">Offensive security enthusiast</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -20,7 +20,7 @@
 - <b>Desktop applications(C++, .NET Core)</b>
   - [BetterDnD](https://github.com/r46narok/better-dnd) - Tools for the game *Dungeons and Dragons*, game orchestrator using a custom graphics engine(*SDL2*)
 
-<h2>🐱‍💻Completed CTFs :</h2>
+<h2>🚩Completed CTFs :</h2>
 
 - <b>TryHackMe</b>
   - [Daily Bugle](https://tryhackme.com/room/dailybugle) - Compromising a Joomla CMS account via SQLi
@@ -30,7 +30,7 @@
   - [BrainStorm](https://tryhackme.com/room/brainstorm) - Reverse engineering a chat program and exploiting a Windows machine
   - [Relevant](https://tryhackme.com/room/relevant) - Black box penetration test
 - <b>HackTheBox</b>
-  - Soon
+  - [Nibbles](https://app.hackthebox.com/machines/121) - Web attack vector
   
 <h2> 🤳 Connect with me:</h2>
 
