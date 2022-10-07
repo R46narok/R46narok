@@ -7,8 +7,9 @@
   - [Friday](https://github.com/r46narok/Friday) - Digital assistant
   - [Rift](https://github.com/r46narok/Rift) - Library for building microservices
   - [Tagesdosis](https://github.com/batmitio/tagesdosis) - Online blog
-- <b>Machine learning</b>
+- <b>Machine learning and math</b>
   - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
+  - [Horner](https://github.com/r46narok/horner) - Implementation of Horners rule for solving equations 
 - <b>Mobile (Xamarin and native Java code)</b>
   - [Zero Gravity](https://github.com/r46narok/zerogravity) - The first virtual resistance training coach(features AI)
   - [Quasar](https://github.com/r46narok/quasar) - New generation of smart wearable devices
