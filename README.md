@@ -3,7 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Microservices and Cloud(.NET Core, Azure, Kubernetes)</b>
+  - [Velocity9](https://github.com/r46narok/Velocity9) - A virtual calisthenics coach
   - [Authme](https://github.com/r46narok/AuthMe) - Solution for digital identity on the Internet
+  - [GeldMeister](https://github.com/r46narok/GeldMeister) - Dynamic bank statement parser
   - [Friday](https://github.com/r46narok/Friday) - Digital assistant
   - [Rift](https://github.com/r46narok/Rift) - Library for building microservices
   - [Tagesdosis](https://github.com/batmitio/tagesdosis) - Online blog
@@ -11,7 +13,7 @@
   - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
   - [Horner](https://github.com/r46narok/horner) - Implementation of Horners rule for solving equations 
 - <b>Mobile (Xamarin and native Java code)</b>
-  - [Zero Gravity](https://github.com/r46narok/zerogravity) - The first virtual resistance training coach(features AI)
+  - [Zero Gravity](https://github.com/r46narok/zerogravity) - The first virtual resistance training coach
   - [Quasar](https://github.com/r46narok/quasar) - New generation of smart wearable devices
 - <b>Low-level(C++, OpenGL, Vulkan)</b>
   - [Magma](https://github.com/r46narok/magma) - Hardware acceleration engine for graphics and numerical computation on GPUs using *Vulkan*
