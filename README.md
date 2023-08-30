@@ -53,44 +53,42 @@
 
 ###
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Innovative Software Engineering Ventures:
 
-- <b>Microservices and Cloud(.NET Core, Azure, Kubernetes)</b>
-  - [Velocity9](https://github.com/r46narok/Velocity9) - A virtual calisthenics coach
-  - [Authme](https://github.com/r46narok/AuthMe) - Solution for digital identity on the Internet
-  - [GeldMeister](https://github.com/r46narok/GeldMeister) - Dynamic bank statement parser
-  - [Friday](https://github.com/r46narok/Friday) - Digital assistant
-  - [Rift](https://github.com/r46narok/Rift) - Library for building microservices
-  - [Tagesdosis](https://github.com/batmitio/tagesdosis) - Online blog
-- <b>Machine learning and math</b>
-  - [Axon](https://github.com/r46narok/axon) - *CUDA* library for machine learning algorithms 
-  - [Horner](https://github.com/r46narok/horner) - Implementation of Horners rule for solving equations 
-- <b>Mobile (Xamarin and native Java code)</b>
-  - [Zero Gravity](https://github.com/r46narok/zerogravity) - The first virtual resistance training coach
-  - [Quasar](https://github.com/r46narok/quasar) - New generation of smart wearable devices
-- <b>Low-level(C++, OpenGL, Vulkan)</b>
-  - [Magma](https://github.com/r46narok/magma) - Hardware acceleration engine for graphics and numerical computation on GPUs using *Vulkan*
-  - [Vortex](https://github.com/r46narok/vortex) - Game engine using *OpenGL*
-  - [PocketSniffer](https://github.com/r46narok/pocketsniffer) - Portable *ESP8266* packet sniffer
-  - [DeltaFrost](https://github.com/r46narok/deltafrost) - Network security analysis
-- <b>Desktop applications(C++, .NET Core)</b>
-  - [BetterDnD](https://github.com/r46narok/better-dnd) - Tools for the game *Dungeons and Dragons*, game orchestrator using a custom graphics engine(*SDL2*)
+- **Revolutionizing Microservices Architecture and Cloud Integration (.NET Core, Azure, Kubernetes)**
+  - [Velocity9](https://github.com/r46narok/Velocity9) - Virtual Calisthenics Coaching Redefined through Advanced Microservices
+  - [Authme](https://github.com/r46narok/AuthMe) - Shaping the Future of Digital Identity Solutions via Cutting-edge Cloud Technologies
+  - [GeldMeister](https://github.com/r46narok/GeldMeister) - Dynamic Bank Statement Parsing at Scale through Intelligent Microservices
+  - [Friday](https://github.com/r46narok/Friday) - Artificial Intelligence-powered Digital Assistant for Seamless Task Management
+  - [Rift](https://github.com/r46narok/Rift) - Crafting High-Performance Microservices with Unparalleled Flexibility
+  - [Tagesdosis](https://github.com/batmitio/tagesdosis) - Empowering Content Delivery: Advanced Online Blog Platform
 
-<h2>🚩Completed CTFs :</h2>
+- **Exploring Advanced Machine Learning and Mathematical Frontiers**
+  - [Axon](https://github.com/r46narok/axon) - Harnessing GPU Acceleration with *CUDA* for Complex Machine Learning Algorithms
+  - [Horner](https://github.com/r46narok/horner) - Mathematical Precision: Implementation of Horners Rule for Equation Solving
 
-- <b>TryHackMe</b>
-  - [Daily Bugle](https://tryhackme.com/room/dailybugle) - Compromising a Joomla CMS account via SQLi
-  - [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory) - Exploiting a vulnerable Domain Controller
-  - [Mr Robot CTF](https://tryhackme.com/room/mrrobot) - Exploiting Apache
-  - [HackPark](https://tryhackme.com/room/hackpark) - Hydra bruteforcing, public exploits
-  - [BrainStorm](https://tryhackme.com/room/brainstorm) - Reverse engineering a chat program and exploiting a Windows machine
-  - [Relevant](https://tryhackme.com/room/relevant) - Black box penetration test
-- <b>HackTheBox</b>
-  - [Nibbles](https://app.hackthebox.com/machines/121) - Web attack vector
-  
-<h2> 🤳 Connect with me:</h2>
+- **Elevated Mobile Development with Xamarin and Native Java**
+  - [Zero Gravity](https://github.com/r46narok/zerogravity) - Architecting the Ultimate Virtual Resistance Training Coach with Mobile Expertise
+  - [Quasar](https://github.com/r46narok/quasar) - Smart Wearable Revolution: Advancing Wearable Device Technology with Native Mobile Skillset
 
+- **Pushing Boundaries with Low-Level Development (C++, OpenGL, Vulkan)**
+  - [Magma](https://github.com/r46narok/magma) - Empowering GPUs using *Vulkan*: Redefining Graphics and Numerical Computation Acceleration
+  - [Vortex](https://github.com/r46narok/vortex) - Unleashing Gaming Potential: Game Engine Development Exploiting *OpenGL*
+  - [PocketSniffer](https://github.com/r46narok/pocketsniffer) - Enabling Data Insights on the Go: Portable *ESP8266* Packet Sniffer Innovation
+  - [DeltaFrost](https://github.com/r46narok/deltafrost) - Mastering Network Security Analysis with Advanced Low-Level Expertise
 
-[<img align="left" alt="Stanimir Kolev| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **Crafting Desktop Excellence with C++ and .NET Core**
+  - [BetterDnD](https://github.com/r46narok/better-dnd) - Tools for *Dungeons and Dragons*: Orchestrating Game Dynamics with Custom Graphics Engine (*SDL2*)
 
-[linkedin]: https://www.linkedin.com/in/stanimir-kolev-60984a227/
+## 🚩Triumphs in Capture The Flags (CTFs):
+
+- **Conquering Challenges on TryHackMe Platform**
+  - [Daily Bugle](https://tryhackme.com/room/dailybugle) - SQL Injection Mastery: Compromising Joomla CMS Account
+  - [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory) - Dominating Domain Controller Exploitation with Expert Precision
+  - [Mr Robot CTF](https://tryhackme.com/room/mrrobot) - Advanced Apache Exploitation: A Tactical CTF Victory
+  - [HackPark](https://tryhackme.com/room/hackpark) - Strategic Approaches: Hydra Bruteforcing and Public Exploit Domination
+  - [BrainStorm](https://tryhackme.com/room/brainstorm) - Reverse Engineering and Windows Exploitation Expertise for CTF Success
+  - [Relevant](https://tryhackme.com/room/relevant) - Mastering Black Box Penetration Testing for Comprehensive Triumph
+
+- **Thriving on HackTheBox Platform**
+  - [Nibbles](https://app.hackthebox.com/machines/121) - Navigating and Conquering Web Attack Vectors with Technical Finesse
